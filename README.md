@@ -1,5 +1,30 @@
-# 💫 Hi 👋, I'm Aditya Panda
-**A passionate ML Engineer || Full Stack Developer**
+<!--
+  ╔═══════════════════════════════════════════════════╗
+  ║  aditya-panda  ·  ml engineer                     ║
+  ║  github.com/AdityaPanda0506                       ║
+  ╚═══════════════════════════════════════════════════╝
+-->
+
+<div align="center">
+
+<a href="https://adityapanda.dev">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=ADC6FF&center=true&vCenter=true&width=750&height=40&lines=%24+aditya_panda;ML+Engineer+%7C+Data+%C3%97+Science" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://vit.ac.in"><img src="https://img.shields.io/badge/VIT_Chennai-B.Tech_CS_(AIML)-2bbc8a?style=flat-square" /></a>
+<img src="https://img.shields.io/badge/status-active__research-ADC6FF?style=flat-square" />
+
+<br/><br/>
+
+*Third-year CS undergrad building high-performance systems at the intersection of **machine learning** and **data science**.*
+
+</div>
+
+<br/>
+
+
 
 Email Me 👉 ✉️ **aadityapanda5@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
